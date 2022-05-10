@@ -1,0 +1,20 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db": "json-server -w db.json",
+    "tunnel": "ngrok http 3000",
+    "ngrokauth": "ngrok authtoken 28yhtDIufnLxz26teLpwgm9KhpD_4ZPwUgK7QzPRELCFoFbf6",
+    "generate": "json-server generate.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "json-server": "^0.16.1",
+    "lodash": "^4.17.21",
+    "ngrok": "^4.0.1"
+  }
+}
