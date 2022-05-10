@@ -1,0 +1,184 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "Charles Wintheiser",
+      "author": "Austin Mraz",
+      "firstName": "Obie",
+      "lastName": "Hermiston",
+      "birthDate": "2021-12-02T03:20:01.972Z",
+      "address": "6310 Wolf Mountain",
+      "emailAddresses": [
+        "Garnett_Bosco@hotmail.com",
+        "Bradley13@hotmail.com"
+      ],
+      "phoneNumbers": [
+        "(475) 553-9154",
+        "734.790.6866 x258"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/lingeswaran_128.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Theresa Weimann",
+      "author": "Timmy Toy",
+      "firstName": "Yvette",
+      "lastName": "Keeling",
+      "birthDate": "2021-06-17T11:46:04.302Z",
+      "address": "533 Tiana Avenue",
+      "emailAddresses": [
+        "Zachariah98@hotmail.com",
+        "Everardo20@gmail.com"
+      ],
+      "phoneNumbers": [
+        "(378) 272-0489",
+        "722-341-6572"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/yalozhkin_128.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Dorothy Balistreri",
+      "author": "Beatrice Miller",
+      "firstName": "Meggie",
+      "lastName": "Glover",
+      "birthDate": "2021-12-12T12:25:48.767Z",
+      "address": "33048 Bednar Gateway",
+      "emailAddresses": [
+        "Cordelia14@yahoo.com",
+        "Makayla5@yahoo.com"
+      ],
+      "phoneNumbers": [
+        "(785) 265-4803 x2989",
+        "541-814-4081 x18299"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/mohanrohith_128.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Martha Legros",
+      "author": "Mamie Blick",
+      "firstName": "Bernita",
+      "lastName": "Crooks",
+      "birthDate": "2021-11-18T14:22:15.938Z",
+      "address": "1391 Ritchie Square",
+      "emailAddresses": [
+        "Finn_Orn@hotmail.com",
+        "Keith_Pagac88@gmail.com"
+      ],
+      "phoneNumbers": [
+        "1-908-805-1676 x17959",
+        "844-375-7296 x47780"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/petrangr_128.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Velma Heathcote",
+      "author": "Erick Altenwerth",
+      "firstName": "Germaine",
+      "lastName": "Goldner",
+      "birthDate": "2022-05-02T23:21:21.406Z",
+      "address": "7299 Senger Corner",
+      "emailAddresses": [
+        "Tyrique.Wolf5@hotmail.com",
+        "Anastasia97@hotmail.com"
+      ],
+      "phoneNumbers": [
+        "1-893-822-1279",
+        "709.863.8850"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/juamperro_128.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Bennie Price",
+      "author": "Emma Mills",
+      "firstName": "Edd",
+      "lastName": "Cummerata",
+      "birthDate": "2021-09-04T08:32:12.982Z",
+      "address": "198 Winifred Pike",
+      "emailAddresses": [
+        "Germaine_Reinger61@gmail.com",
+        "Eudora20@yahoo.com"
+      ],
+      "phoneNumbers": [
+        "1-635-515-5512 x5710",
+        "1-230-784-6802 x3658"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/lowie_128.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Ginger Vandervort",
+      "author": "Jesus Stark",
+      "firstName": "Bettye",
+      "lastName": "Crona",
+      "birthDate": "2021-11-16T11:08:17.458Z",
+      "address": "2035 Schuppe Park",
+      "emailAddresses": [
+        "Jerel74@gmail.com",
+        "Alexander.Hills@yahoo.com"
+      ],
+      "phoneNumbers": [
+        "478-562-9384 x457",
+        "1-240-271-0509"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/daykiine_128.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Hazel Littel",
+      "author": "Walter Ledner",
+      "firstName": "Jacinto",
+      "lastName": "Hayes",
+      "birthDate": "2021-05-14T12:41:20.314Z",
+      "address": "231 Hailie Road",
+      "emailAddresses": [
+        "Casey_Morar@yahoo.com",
+        "Jan_Bernhard@hotmail.com"
+      ],
+      "phoneNumbers": [
+        "292-689-7428",
+        "1-880-208-8452"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/trubeatto_128.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Leroy Will",
+      "author": "Mike Moen",
+      "firstName": "Cassie",
+      "lastName": "Adams",
+      "birthDate": "2021-06-04T16:17:16.978Z",
+      "address": "56833 Stanford Ports",
+      "emailAddresses": [
+        "Isom32@yahoo.com",
+        "Zola87@gmail.com"
+      ],
+      "phoneNumbers": [
+        "934-342-9289 x91466",
+        "1-419-348-2677 x34081"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/rude_128.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Alvin Schaefer",
+      "author": "Jan Brakus",
+      "firstName": "Ernestine",
+      "lastName": "Gottlieb",
+      "birthDate": "2021-12-28T10:42:54.551Z",
+      "address": "433 Kasey Locks",
+      "emailAddresses": [
+        "Alfreda.Walsh@yahoo.com",
+        "Ulices.Schaefer59@yahoo.com"
+      ],
+      "phoneNumbers": [
+        "312.386.0842",
+        "(438) 268-2301 x587"
+      ],
+      "avatar": "https://cdn.fakercloud.com/avatars/kurtinc_128.jpg"
+    }
+  ]
+}
