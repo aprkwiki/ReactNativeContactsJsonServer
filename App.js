@@ -7,7 +7,7 @@ import PostCardItem from './src/components/PostCardItem';
 
 // update this url - new_ngrok_host_url/posts"
 // const api_baseurl = 'localhost:3000';
-const api_baseurl = 'http://8dd7-68-42-112-98.ngrok.io';
+const api_baseurl = 'http://3a58-2601-40d-502-3863-5032-3ba-9807-500b.ngrok.io';
 const url = `${api_baseurl}/posts`
 // const url = `http://cc8b-68-42-112-98.ngrok.io/posts`;
 
